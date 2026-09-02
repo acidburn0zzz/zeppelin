@@ -44,7 +44,7 @@
         <!--plugin versions-->
         <plugin.scala.version>2.15.2</plugin.scala.version>
         <!-- spark versions -->
-        <spark.version>2.2.0</spark.version>
+        <spark.version>2.2.3</spark.version>
         <py4j.version>0.10.4</py4j.version>
 
         <spark.archive>spark-${spark.version}</spark.archive>
