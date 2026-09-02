@@ -23,7 +23,7 @@
   <parent>
     <artifactId>zeppelin</artifactId>
     <groupId>org.apache.zeppelin</groupId>
-    <version>0.9.0-SNAPSHOT</version>
+    <version>0.12.0</version>
     <relativePath>..</relativePath>
   </parent>
 
@@ -36,8 +36,8 @@
 
   <properties>
     <!--library versions-->
-    <hadoop.version>2.7.3</hadoop.version>
-    <commons.lang3.version>3.7</commons.lang3.version>
+    <hadoop.version>3.4.0</hadoop.version>
+    <commons.lang3.version>3.18.0</commons.lang3.version>
     <jackrabbit.webdav.version>1.5.2</jackrabbit.webdav.version>
     <quartz.scheduler.version>2.2.1</quartz.scheduler.version>
     <lucene.version>5.3.1</lucene.version>
@@ -232,7 +232,7 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-compress</artifactId>
-      <version>1.5</version>
+      <version>1.26.0</version>
     </dependency>
 
   </dependencies>
