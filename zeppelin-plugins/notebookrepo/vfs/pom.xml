@@ -37,7 +37,7 @@
     <description>NotebookRepo implementation based on VFS</description>
 
     <properties>
-        <commons.vfs2.version>2.2</commons.vfs2.version>
+        <commons.vfs2.version>2.10.0</commons.vfs2.version>
         <plugin.name>NotebookRepo/VFSNotebookRepo</plugin.name>
     </properties>
 

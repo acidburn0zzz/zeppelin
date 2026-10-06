@@ -37,7 +37,7 @@
     <description>NotebookRepo implementation based on Git</description>
 
     <properties>
-        <eclipse.jgit.version>4.5.4.201711221230-r</eclipse.jgit.version>
+        <eclipse.jgit.version>5.13.4.202507202350-r</eclipse.jgit.version>
         <google.truth.version>0.27</google.truth.version>
         <plugin.name>NotebookRepo/GitNotebookRepo</plugin.name>
     </properties>

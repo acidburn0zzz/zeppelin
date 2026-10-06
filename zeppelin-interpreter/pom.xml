@@ -47,7 +47,7 @@
     <atomix.version>3.0.0-rc4</atomix.version>
     <commons-math3.version>3.1.1</commons-math3.version>
     <guava.version>20.0</guava.version>
-    <commons-lang3.version>3.7</commons-lang3.version>
+    <commons-lang3.version>3.18.0</commons-lang3.version>
 
     <!--plugin versions-->
     <plugin.shade.version>2.3</plugin.shade.version>
